@@ -152,10 +152,4 @@ MIT — free to use, modify, and distribute.
 
 ---
 
-## Training Curves
-![Training Curves](results/training_curves.png)
-
-## Confusion Matrix
-![Confusion Matrix](results/confusion_matrix.png)
-
 *Built with TensorFlow 2.x · CIFAR-10 dataset courtesy of Alex Krizhevsky*
